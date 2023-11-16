@@ -20,5 +20,6 @@
     ],
     "data": [
         "data/edi_data.xml",
+        "demo/edi_backend_sftp_demo.xml",
     ],
 }

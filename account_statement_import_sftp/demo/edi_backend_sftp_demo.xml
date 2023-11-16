@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<odoo>
+    <record id="demo_edi_backend_sftp" model="edi.backend">
+        <field name="name">Demo EDI backend</field>
+        <field name="backend_type_id" ref="sftp_bank_edi" />
+    </record>
+</odoo>
